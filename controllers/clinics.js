@@ -15,16 +15,10 @@ class ClinicsController {
         const resp = await fetch(api_url);
         const data = await resp.json();
         contentList.content=data;
-        let result=[];
-       /**  let i;
-        let j;
-        for(i=0; j=0; i < clinicName.length,j < state.length, i++,j++){
-        */
+       
             const resultData = contentList.content.filter(a=>a.name===clinicName || a.stateName===state);
             console.log(resultData);
-    
-       // const filterData=contentList.content.filter(a=>a.name===clinicName || a.stateName===state);
-        return response(res, result, 200);       
+           return response(res, resultData, 200);       
     };
 }
 module.exports = ClinicsController;
