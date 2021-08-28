@@ -1,0 +1,92 @@
+[
+    {
+        "clinicName": "Good Health Home",
+        "state": "Alaska",
+        "from": "10:00",
+        "to": "19:30"
+    },
+    {
+        "clinicName": "Mayo Clinic",
+        "state": "Florida",
+        "from": "09:00",
+        "to": "20:00"
+    },
+    {
+        "clinicName": "Cleveland Clinic",
+        "state": "New York",
+        "from": "11:00",
+        "to": "22:00"
+    },
+    {
+        "clinicName": "Hopkins Hospital Baltimore",
+        "state": "Florida",
+        "from": "07:00",
+        "to": "22:00"
+    },
+    {
+        "clinicName": "Mount Sinai Hospital",
+        "state": "California",
+        "from": "12:00",
+        "to": "22:00"
+    },
+    {
+        "clinicName": "Tufts Medical Center",
+        "state": "Kansas",
+        "from": "10:00",
+        "to": "23:00"
+    },
+    {
+        "clinicName": "UAB Hospital",
+        "state": "Alaska",
+        "from": "11:00",
+        "to": "22:00"
+    },
+    {
+        "clinicName": "Swedish Medical Center",
+        "state": "Arizona",
+        "from": "07:00",
+        "to": "20:00"
+    },
+    {
+        "clinicName": "Scratchpay Test Pet Medical Center",
+        "state": "California",
+        "from": "00:00",
+        "to": "24:00"
+    },
+    {
+        "clinicName": "Scratchpay Official practice",
+        "state": "Tennessee",
+        "from": "00:00",
+        "to": "24:00"
+    },
+    {
+        "clinicName": "Good Health Home",
+        "state": "FL",
+        "from": "15:00",
+        "to": "20:00"
+    },
+    {
+        "clinicName": "National Veterinary Clinic",
+        "state": "CA",
+        "from": "15:00",
+        "to": "22:30"
+    },
+    {
+        "clinicName": "German Pets Clinics",
+        "state": "KS",
+        "from": "08:00",
+        "to": "20:00"
+    },
+    {
+        "clinicName": "City Vet Clinic",
+        "state": "NV",
+        "from": "10:00",
+        "to": "22:00"
+    },
+    {
+        "clinicName": "Scratchpay Test Pet Medical Center",
+        "state": "CA",
+        "from": "00:00",
+        "to": "24:00"
+    }
+]
