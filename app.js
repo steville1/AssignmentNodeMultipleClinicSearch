@@ -25,9 +25,8 @@ app.use('/api', clinicsRoute);
 
 
 
-//const port = config.get("port");
-const server = app.listen(3500, () =>
-console.log("Listing on Port")
+const port = process.env.PORT || config.get("port");
+const server = app.listen(port, () =>
+ console.log(`Listening on port ${port}...`)
 );
-
-module.exports = app;
+module.exports = server;
