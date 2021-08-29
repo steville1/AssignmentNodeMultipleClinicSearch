@@ -15,6 +15,11 @@ class ClinicsController {
                 const from = req.query.from ?? "";
                 const to = req.query.to ?? "";
 
+                //console.log(clinicName);
+                //console.log(state);
+                //console.log(from);
+                //console.log(to);
+
                 let dataSource = [];
                 const key = "datasource"; 
                 const ttlSeconds = 60 * 60 * 24; // 1 day
